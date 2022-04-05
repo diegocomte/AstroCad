@@ -4,6 +4,11 @@ O AstroCad emula um site e-commerce (landing page somente) no qual estão dispos
 
 [Acessar o AstroCad](http://astrocad.surge.sh/)
 
+## Desenvolvedores
+Diego Conte\
+Carlise Debona\
+José Antônio dos Santos Junior
+
 ## Instalação
 ```
 $ git clone https://github.com/diegocomte/AstroCad.git
