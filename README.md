@@ -1,6 +1,6 @@
 # AstroCad
 
-O AstroCad emula um site e-commerce (landing page somente) no qual estão dispostos os principais produtos e funcionalidades do negócio. Visamos, assim, a reproduzir a experiência dos usuários de comércio digital seguindo o conceito desktop first.
+O AstroCad emula um site e-commerce (landing page somente) no qual estão dispostos os principais produtos e funcionalidades do negócio. Visou-se, assim, a reproduzir a experiência dos usuários de comércio digital seguindo o conceito desktop first.
 
 [Acessar o AstroCad](http://astrocad.surge.sh/)
 
