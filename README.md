@@ -6,7 +6,7 @@ O AstroCad emula um site e-commerce (landing page somente) no qual estão dispos
 
 ## Instalação
 ```
-$ git clone https://github.com/diegocomte/FutureFoods.git
+$ git clone https://github.com/diegocomte/AstroCad.git
 $ npm install
 $ npm start
 ```
